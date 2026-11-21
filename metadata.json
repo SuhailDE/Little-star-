@@ -1,0 +1,6 @@
+{
+  "name": "Little Star",
+  "description": "Little Star — A Caring Place for Young Learners. Official educational website and coaching centre management system in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
